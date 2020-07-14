@@ -1,7 +1,7 @@
 {
   "name": "Hacker News Demetricator",
-  "version": "0.1",
-  "description": "Remove upvote and comment counts from Hacker News. Compatible with Hacker News Enhancement Suite.",
+  "version": "0.2",
+  "description": "Remove upvote and comment counts from Hacker News.",
   "icons": {
     "128": "icon.png"
   },
